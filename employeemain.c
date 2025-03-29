@@ -31,5 +31,7 @@ int main(void){
     else 
         printf("Employee with phone number 909-555-1235 is NOT found in the record\n"); 
      
-    return EXIT_SUCCESS; 
+    
+        getchar();
+        return EXIT_SUCCESS; 
 }
